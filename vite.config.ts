@@ -7,5 +7,5 @@ export default defineConfig({
   // This is crucial for GitHub Pages. 
   // It ensures assets are linked relatively (e.g., "./assets/...") 
   // instead of absolutely (e.g., "/assets/...").
-  base: './', 
+  base: '/to-shiyao/', 
 });
