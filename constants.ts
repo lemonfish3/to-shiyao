@@ -84,21 +84,21 @@ export const MEMORIES: Memory[] = [
     date: "2012. Summer",
     title: "海边",
     text: "前两天翻看相册找到了这张照片，小学时暑假旅行。多少年后再看，完全是不一样的心情",
-    imageUrl: "beach.jpg"
+    imageUrl: "beach.JPG"
   },
   {
     id: "m2",
     date: "2017. Winter",
     title: "出发",
     text: "临走时的那个拥抱。那时觉得分开是很遥远的事，没想到后来变成了常态。",
-    imageUrl: "last-photo.jpeg"
+    imageUrl: "last-photo.JPEG"
   },
   {
     id: "m3",
     date: "2019. Birthday",
     title: "礼物",
     text: "每年的生日，都会收到不一样的惊喜。还记得我十八岁生日，你找到小学的朋友给我写祝福。那一刻觉得，物理距离其实没那么可怕。",
-    imageUrl: "birthday.png"
+    imageUrl: "birthday.PNG"
   }
 ];
 
@@ -125,7 +125,7 @@ export const LETTER_CONTENT = {
   title: "致 诗瑶",
   description: "没什么可以给你的，只好写点什么，画点什么。",
   imageUrls: [
-    "cover.jpg",
+    "cover.JPG",
     "letter.jpg"
   ]
 };

@@ -1,0 +1,7 @@
+/* Minimal index.css to avoid 404 and provide base styles for production */
+:root{--bg:#0c0a09;--fg:#e7e5e4}
+html,body{height:100%;margin:0;padding:0;background:var(--bg);color:var(--fg);}
+body{font-family:'Noto Sans SC', sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+img{max-width:100%;height:auto;display:block}
+/* Utility to hide scrollbars when desired */
+.no-scrollbar::-webkit-scrollbar{width:0}
